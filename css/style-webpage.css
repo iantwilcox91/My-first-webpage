@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: red;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+}
+ul{
+  color: green;
+    text-align: left;
+}
